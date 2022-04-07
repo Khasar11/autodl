@@ -1,0 +1,5 @@
+load: startup
+name: Autodl
+version: '${project.version}'
+main: com.khasar.autodl.autodl.Autodl
+api-version: 1.15
