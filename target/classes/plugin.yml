@@ -1,5 +1,11 @@
-load: startup
-name: Autodl
+name: AutoDL
 version: '1.0-SNAPSHOT'
-main: com.khasar.autodl.autodl.Autodl
-api-version: 1.15
+main: com.khasar.autodl.adl.Adl
+api-version: 1.18
+authors: [ Khasar1 ]
+load: STARTUP
+commands:
+  getADLFiles:
+    description: re-download ADL files
+    usage: /<command>
+    permission: op

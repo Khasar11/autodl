@@ -1,3 +1,10 @@
-
 download-list:
-  - "https://i.ibb.co/H73VzqS/Untitled.png|||./plugins/auto_folder/aikodskf.png"
+  - "http://145.239.2.218/serveressentials.sk|||./plugins/Skript/scripts/serveressentials.sk"
+  - "http://145.239.2.218/bh.sk|||./plugins/Skript/scripts/bh.sk"
+  - "http://145.239.2.218/customenchant.sk|||./plugins/Skript/scripts/customenchant.sk"
+  - "http://145.239.2.218/itemfilter.sk|||./plugins/Skript/scripts/itemfilter.sk"
+  - "http://145.239.2.218/money.sk|||./plugins/Skript/scripts/money.sk"
+  - "http://145.239.2.218/quests.sk|||./plugins/Skript/scripts/quests.sk"
+  - "http://145.239.2.218/rpg.sk|||./plugins/Skript/scripts/rpg.sk"
+  - "http://145.239.2.218/simpletoken.sk|||./plugins/Skript/scripts/simpletoken.sk"
+  - "http://145.239.2.218/toolupgrade.sk|||./plugins/Skript/scripts/toolupgrade.sk"
